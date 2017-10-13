@@ -12,3 +12,7 @@ reboot
 alert
 
 flukeout.github.io
+typescriptlang.org/docs
+angular.io/docs
+
+font.google.com
