@@ -18,6 +18,7 @@ class Chipmunk extends Gato
        super('Gato')
        {
            this.nombre = nombre;
+            
        }
 
    }
