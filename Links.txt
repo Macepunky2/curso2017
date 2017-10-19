@@ -12,7 +12,6 @@ Documentación Extra:
     - https://johnpapa.net/typescriptpost1/
     - https://johnpapa.net/typescriptpost2/
     - https://johnpapa.net/typescriptpost3/
-    - https://johnpapa.net/typescriptpost4/
 
 Links de Interes:
 - https://fonts.google.com
